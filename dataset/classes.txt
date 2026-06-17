@@ -1,0 +1,10 @@
+stop
+do_not_enter
+school_zone
+crosswalk
+speed_30
+speed_50
+left_turn
+right_turn
+falling_rocks
+bus_only_lane
